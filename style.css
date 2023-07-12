@@ -15,6 +15,13 @@ h1{
     font-weight: 900;
     -webkit-text-stroke: 5px white; 
 }
+h2{
+    font-size: 92px;
+    text-align: center;
+    color: #FAB201;
+    font-weight: 900;
+    -webkit-text-stroke: 5px white; 
+}
 
 .flex{
     display: flex;
